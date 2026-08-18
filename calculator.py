@@ -3,19 +3,23 @@
 
 
 #write SUBTRACT function
-
+def sub(x, y):
+    return x-y
 
 
 #write MULTIPLICATION function
-
+def multi(x,y):
+    return x * y
 
 
 #write DIVISION function
-
+def div(x,y):
+    return x / y
 
 
 #write REMAINDER function
-
+def rem(x,y):
+    return x % y
 
 
 
