@@ -7,7 +7,8 @@ def add(x,y):
 
 
 #write MULTIPLICATION function
-
+def multi(x,y):
+    return x * y
 
 
 #write DIVISION function
